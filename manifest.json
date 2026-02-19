@@ -1,0 +1,19 @@
+{
+  "name": "NeedForSlots",
+  "short_name": "NeedForSlots",
+  "theme_color": "",
+  "background_color": "#1C222F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771496563-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1C222F",
+            "lang-select-color": "#222829",
+            "bg-light": "#1C222F",
+            "welcome-bonus-bg": "#1C222F",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#283144",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#413C67",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#413C67",
+            "yellow-button": "#76D0BF",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#1C222F",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#1C222F",
+            "faq-label": "#1C222F",
+            "bg-footer": "#1C222F",
+            "copyright": "#e7e7d5",
+            "starColor": "#76D0BF",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3306"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3308",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "NeedForSlots Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3309",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "NeedForSlots"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "NeedForSlots",
+                    "title": "NeedForSlots — Best Online Casino | €1,500 Bonus",
+                    "description": "Play at NeedForSlots with 6,000+ licensed games, live dealers & welcome bonus up to €1,500 + 250 Free Spins. Curaçao licensed. Join now!\n",
+                    "canonical": "#",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3310",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "@pafcasino",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3311"
+                },
+                "hero": {
+                    "title": "Your Premier Online Casino for Real Money Slots",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3312",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3313",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino with a massive game library? We operate under Curaçao Gaming Authority license, offer SSL-protected transactions, and deliver 6,000+ certified games 24\/7. Here's what makes us the top choice for online players:\n",
+                    "items": [
+                        "Licensed by Curaçao Gaming Authority (OGL\/2025\/5514\/3876) — certified fair play",
+                        "6,000+ games from 70+ studios: Pragmatic Play, Evolution, Microgaming & BGaming",
+                        "Welcome bonus up to €1,500 + 250 Free Spins across four deposits",
+                        "16 payment methods: Visa, Mastercard, Skrill, Neteller, Bitcoin, Ethereum",
+                        "25% weekly cashback + up to 17% rakeback for loyal players",
+                        "24\/7 live chat support with SSL 256-bit encrypted transactions"
+                    ],
+                    "advantagesAfterText": "Join thousands of players enjoying provably fair gaming certified by independent auditors. Our dedicated support team is available 24\/7 via live chat to assist you instantly.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "NeedForSlots App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3315",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "NeedForSlots App",
+                    "mobileGooglePlayImageTitle": "NeedForSlots App",
+                    "mobileIosImageTitle": "NeedForSlots App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About NeedForSlots Casino",
+                        "description1": "We are a fast-growing online gaming platform licensed by Curaçao Gaming Authority, offering 6,000+ certified games from over 70 studios worldwide. Our mission is to deliver secure, fair, and entertaining gameplay for every player.\n",
+                        "items": [
+                            "Launched with 6,000+ games and Curaçao license secured",
+                            "Integrated 70+ certified providers including Evolution & Pragmatic Play",
+                            "Launched sports betting section alongside casino lobby",
+                            "Achieved SSL 256-bit encryption across all player transactions"
+                        ],
+                        "description2": "We operate under Curaçao Gaming Authority license OGL\/2025\/5514\/3876 with SSL 256-bit encryption protecting all transactions. Every game in our lobby is supplied by RNG-certified studios ensuring fair outcomes for every spin.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3316",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue expanding our portfolio with new providers and exclusive titles monthly. Our responsible gaming tools — deposit limits, session controls, and self-exclusion — keep players safe. Join us and experience premium online gaming today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio at NeedForSlots",
+                        "description": "<h2>Complete Game Portfolio at NeedForSlots Online Casino<\/h2>\n\n<p>At NeedForSlots, we bring together over 6,000 licensed games from more than 70 certified software studios, making our gaming platform one of the most comprehensive destinations for online slots, live casino tables, and specialty titles available today. Whether you prefer the spinning reels of video slots, the strategy of blackjack, or the immersive environment of live dealer games streamed in HD, our casino lobby covers every preference with precision and quality. Our game library is continuously updated with fresh releases from providers such as Pragmatic Play, Evolution Gaming, BGaming, Microgaming, Betsoft, Endorphina, Amatic, and Playson — ensuring you always have something new to explore. All games in our catalogue are supplied by studios that hold RNG certifications from independent testing laboratories, guaranteeing fair and unpredictable outcomes on every session. We protect player accounts and transactions with SSL 256-bit encryption and operate under Curaçao Gaming Authority license OGL\/2025\/5514\/3876, so you can spin, bet, and wager with complete confidence.<\/p>\n\n<h3>Slot Games: The Heart of Our Casino<\/h3>\n\n<p>Slots remain the core of our gaming catalogue, and we offer an unrivalled collection covering every format imaginable. From classic three-reel fruit machines to modern video slots packed with bonus rounds, Hold & Win mechanics, Megaways engines, and cluster-pays systems, there is a slot title for every type of player in our lobby. Popular titles you can enjoy right now include Sweet Bonanza by Pragmatic Play (RTP 96.48%), Big Bass Splash (RTP 96.1%), Wolf Gold (RTP 96%), Royal Joker: Hold and Win, Book of Demi Gods 2 by Spinomenal, Book of Ra Deluxe by Novomatic, and Gold Rush with Johnny Cash. We support the Drops & Wins series by Pragmatic Play, offering daily and weekly prize pools distributed across qualifying slot games, giving every spin an additional layer of excitement and real cash value. Our slot filters allow players to sort by provider, theme, volatility, or feature type, so finding your perfect game takes seconds rather than minutes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic & Fruit Slots:<\/strong> Three-reel and five-reel traditional formats from Novomatic, Amatic, and Greentube. These include Book of Ra Deluxe, Sizzling Hot Deluxe, Lucky Lady's Charm, and Fruit Party — perfect for players who appreciate straightforward gameplay with proven mechanics and RTPs consistently above 95%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Slots with Bonus Rounds:<\/strong> Advanced titles featuring free spins, multipliers, expanding wilds, and interactive bonus games. Highlights include Sugar Rush (RTP 96.5%), Gates of Olympus (RTP 96.5%), The Dog House Megaways (RTP 96.55%), and Wanted Dead or a Wild by Hacksaw Gaming with a 12,500x max win potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Hold & Win Format:<\/strong> A highly popular mechanic across our slot section, with titles like Royal Joker: Hold and Win, Mighty Symbols: HOLD & WIN, and Cash-o-Matic. These games feature coin-collecting bonus rounds where special symbols lock in place during re-spins, building prize values with each trigger.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Dynamic reel engines that deliver up to 117,649 ways to win per spin. We feature titles such as Big Bass Bonanza Megaways, Gonzo's Quest Megaways, Bonanza Megaways by Big Time Gaming, and Extra Chilli Megaways — all with cascading reels and unlimited multipliers in free spins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Network jackpots with prize pools that grow with every wager placed. We offer Mega Moolah by Microgaming — the world-record breaking jackpot title — alongside Divine Fortune by NetEnt, Major Millions, and Aztec's Millions. These titles have collectively paid out millions to lucky players globally.<\/li>\n<\/ul>\n\n<h3>Live Casino: Real Dealers, Real-Time Action<\/h3>\n\n<p>Our live casino section streams over 200 tables in HD and 4K resolution directly from professional studios operated by Evolution Gaming, Pragmatic Play Live, and Ezugi. Players connect directly with certified human dealers in real time, experiencing the authentic atmosphere of a physical casino from any device, at any hour. Evolution Gaming alone provides over 100 live tables in our lobby, including exclusive game show formats unavailable on most competing platforms. All live casino streams use studio-grade cameras, optical character recognition (OCR) technology, and dedicated gaming servers to eliminate lag and ensure seamless interaction between players and dealers. Whether you are playing on desktop or mobile, the live casino delivers broadcast-quality entertainment with real stakes and instant results.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette (RTP 97.3%), French Roulette with La Partage rule, American Roulette, Lightning Roulette with up to 500x multipliers, Immersive Roulette with multi-angle slow-motion replays, and Speed Roulette for fast-paced sessions. Table limits range from €0.20 to €75,000 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seats, Lightning Blackjack with random multipliers, Free Bet Blackjack with complimentary splits and doubles, and VIP Blackjack tables with limits up to €10,000. All tables feature side bets including Perfect Pairs and 21+3.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat with 27-second rounds, Baccarat Squeeze for enhanced drama, No Commission Baccarat, and Dragon Tiger for simplified high-speed gameplay. Limits start at €1 and reach €50,000 at VIP baccarat tables.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker Variants:<\/strong> Three Card Poker, Casino Hold'em (RTP 97.84%), Caribbean Stud Poker with a progressive jackpot exceeding €200,000, Texas Hold'em Bonus Poker, and Ultimate Texas Hold'em. Every hand is dealt by a professionally trained dealer with clear hand explanations for new players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time by Evolution (up to 20,000x max win), Monopoly Live combining a board game with live gambling, Mega Ball bingo-lottery hybrid, Deal or No Deal Live, Sweet Bonanza CandyLand, and Dream Catcher money wheel. These formats blend entertainment with real-money wagering for a unique interactive experience.<\/li>\n<\/ul>\n\n<h3>Table Games & Specialty Formats<\/h3>\n\n<p>Beyond live casino, our gaming platform includes an extensive selection of RNG-powered table games where you can practice strategies, test limits, and play at your own pace without time pressure from a live dealer. Our table games section covers over 150 titles across multiple categories, with certified random number generators audited by independent testing houses to guarantee fair outcomes on every hand and spin. These games are fully compatible with mobile devices, rendering perfectly on screens of all sizes from 320px to 4K displays.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>RNG Roulette:<\/strong> European, French, and American roulette with adjustable chip denominations from €0.10, allowing both casual and high-roller gameplay with identical house edge to live variants (2.7% European, 5.26% American).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>RNG Blackjack:<\/strong> Multi-hand blackjack, Vegas Strip Blackjack, Atlantic City Blackjack, and Pontoon — each with distinct rule sets. Players can use basic strategy freely in solo sessions without dealer time pressure, making these ideal for learning optimal play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Poker:<\/strong> Jacks or Better (RTP up to 99.54% with optimal strategy), Deuces Wild, Double Double Bonus, and Joker Poker. These are among the highest-RTP games in our entire catalogue and represent excellent value for skilled players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Scratch Cards & Instant Win:<\/strong> Fast-play titles providing instant results without spinning reels or card hands. Titles include Germinator, Keno, and various branded scratch card games from Microgaming and Betsoft for quick, casual entertainment between longer sessions.<\/li>\n<\/ul>\n\n<h3>Sports Betting Integration<\/h3>\n\n<p>What makes our platform unique among online gaming destinations is the fully integrated sportsbook running alongside the casino lobby. Players can switch between casino games and live sports betting without creating a separate account or managing different wallets. Our sportsbook covers major leagues and tournaments including Premier League, Champions League, NBA, NFL, ATP tennis, and UFC events, with competitive odds and in-play betting on hundreds of live markets daily. The single-wallet system means your funds are shared across casino and sports sections, and the same promotional offers may apply across both verticals depending on active campaigns. This integration gives players unmatched flexibility to follow live sporting events while enjoying slots and live dealer sessions in parallel.<\/p>\n\n<h3>Mobile Gaming Experience<\/h3>\n\n<p>All 6,000+ games in our casino are fully optimised for mobile play and accessible directly through your smartphone or tablet browser — no dedicated app download is required. Our platform uses HTML5 technology across the entire game library, ensuring smooth rendering on iOS and Android devices regardless of screen size or operating system version. The mobile lobby retains all features of the desktop version, including live casino access, sports betting, promotions, and account management tools. Players looking for premium gaming on the go will find that NeedForSlots delivers a desktop-quality experience on any device, with touch-optimised controls and adaptive layouts that function flawlessly on screens as small as 320px.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & Responsible Gaming",
+                        "description": "<h2>Banking, Bonuses & Responsible Gaming at NeedForSlots<\/h2>\n\n<p>At NeedForSlots, we have built a financial infrastructure designed to serve online players worldwide with maximum flexibility, speed, and security. Our banking system supports 16 verified payment methods covering traditional cards, modern e-wallets, online banking solutions, and a comprehensive suite of cryptocurrencies — giving every player the freedom to deposit and withdraw using their preferred method without incurring casino-side transaction fees. All financial operations on our platform are secured by SSL 256-bit encryption and processed in compliance with our Curaçao Gaming Authority license OGL\/2025\/5514\/3876, which mandates strict anti-money laundering (AML) protocols and responsible financial practices. Whether you prefer sending funds via Visa, processing a Bitcoin transfer, or using Skrill as your go-to e-wallet, our payment gateway handles transactions instantly for deposits and within competitive timeframes for withdrawals.<\/p>\n\n<h3>Deposit Methods: Fast, Secure & Fee-Free<\/h3>\n\n<p>Funding your NeedForSlots account takes under two minutes regardless of which payment method you select. Our minimum deposit is €20 for most methods (€30 for cryptocurrency deposits), and there is no maximum deposit cap for Visa, Mastercard, or cryptocurrency transfers — making our platform equally accessible to casual players and high rollers. Deposits credit to your gaming account instantly in most cases, letting you begin playing within seconds of completing a transaction. We accept deposits in multiple currencies including EUR, USD, GBP, AUD, CAD, BTC, LTC, and ETH, with automatic conversion applied at competitive market rates where applicable.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> Instant deposits with no casino fee. Widely accepted globally and compatible with standard debit and credit card accounts. Minimum deposit €20, maximum unlimited. Withdrawals via card take 1–5 business days depending on your issuing bank.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill & Neteller:<\/strong> Premium e-wallet solutions offering instant deposits and fast withdrawals typically processed within 24 hours. Minimum deposit €20, maximum €10,000 per transaction. Both methods feature built-in currency conversion and are widely trusted across online gaming platforms globally.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Apple Pay & Google Pay:<\/strong> Mobile-first payment solutions enabling one-tap deposits directly from your smartphone. Processed instantly with no additional verification steps required beyond your device biometrics. Minimum deposit €20. Currently available for deposits only at our casino.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Paysafecard & Neosurf:<\/strong> Prepaid voucher solutions for players who prefer anonymous transactions without linking a bank account. Purchase vouchers at retail outlets and redeem them for casino credits instantly. Ideal for privacy-conscious players managing strict gaming budgets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptocurrency (Bitcoin, Ethereum, Litecoin, Ripple, USDT, BCH, DOGE):<\/strong> Minimum deposit €30\/€50. Transactions process within minutes on the blockchain with full anonymity. Withdrawals in crypto are among the fastest options available, typically completing within 24 hours after identity verification is cleared.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bank Transfer (SEPA\/Wire):<\/strong> Available for larger transactions with a minimum of €50. Processing time is 3–5 business days. Maximum monthly withdrawal via bank transfer is €15,000. Recommended for high-volume withdrawals where card or e-wallet limits are insufficient.<\/li>\n<\/ul>\n\n<h3>Payment Methods Overview<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #7ed3bb;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #161b26;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–5 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">€20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1e2433;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill\/Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">~24 hours<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">€20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161b26;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin\/ETH<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">~24 hours<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">€30<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1e2433;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Apple\/Google Pay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">€20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161b26;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">3–5 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">€50<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1e2433;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Paysafecard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">€20<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Welcome Bonus: Up to €1,500 + 250 Free Spins<\/h3>\n\n<p>Our welcome package is one of the most generous entry-level offers available at any licensed online casino, structured across four consecutive deposits to reward commitment and extend your bonus value over multiple sessions. The first deposit match delivers a 100% bonus up to €500 plus 50 free spins on qualifying slot titles including Big Bass Bonanza, Sweet Bonanza, Royal Joker: Hold and Win, and Gold Rush with Johnny Cash. The second deposit adds a 100% match up to €1,000 plus one bonus round. The third deposit provides a 75% match up to €1,500 total accumulated, and the fourth deposit activates a bonus wheel spin with additional prizes. All bonus funds and free spin winnings carry a 45x wagering requirement, and the minimum qualifying deposit is €30 for crypto or €40 for other payment methods. Bonus expiry is set at 7 days from activation, so plan your sessions accordingly to maximise value.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>1st Deposit:<\/strong> 100% match up to €500 + 50 Free Spins on Big Bass Bonanza, Sweet Bonanza, Royal Joker: Hold and Win, or Gold Rush with Johnny Cash. Minimum deposit €40 (€30 crypto). Bonus credits automatically — no promo code required.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>2nd Deposit:<\/strong> 100% match up to €1,000 + 1 Bonus Round. Continue building your bankroll with a second matched deposit offer. Slot contribution to wagering is 100%; card games and roulette contribute only 5%; live dealer games contribute 0%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>3rd Deposit:<\/strong> 75% match accumulating toward the €1,500 total welcome cap. This third boost extends your playing time significantly, particularly valuable for players exploring our 6,000+ slot titles and live casino tables with accumulated bonus funds.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>4th Deposit — Bonus Wheel:<\/strong> A spin on our prize wheel unlocks random bonus rewards. Wagering requirements of 45x apply to all bonus winnings. Maximum cashout from free spin winnings is subject to standard bonus terms available in our Promotions section.<\/li>\n<\/ul>\n\n<h3>Ongoing Promotions & Loyalty Rewards<\/h3>\n\n<p>Beyond the welcome package, our casino rewards consistent players through a structured loyalty programme and a calendar of recurring weekly promotions. The loyalty system operates on levels — as you progress, your cashback percentage and rakeback rate increase automatically, delivering compounding value the more you play. Our 25% weekly cashback applies to net losses calculated across each calendar week and is credited every Monday, giving you a guaranteed financial safety net on losing weeks. Rakeback rewards up to 17% on total wagers accumulate progressively as you advance through loyalty tiers, adding a steady income stream for regular players regardless of session outcomes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Cashback (up to 25%):<\/strong> Calculated on net weekly losses and credited every Monday. Higher loyalty tiers unlock higher cashback percentages. No wagering requirement applies to cashback credits — withdraw or play freely as you choose.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Rakeback (up to 17%):<\/strong> Earn a percentage back on every wager placed, regardless of win or loss. Rakeback accrues progressively and is credited to your account balance. This reward is unique to loyal players at higher tiers and provides consistent supplementary income.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekend Reload Bonus (50% up to €750):<\/strong> Available every weekend on your first deposit of at least €100 for the week. A 50% match up to €750 boosts your weekend gaming sessions substantially — credited automatically upon qualifying deposit.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekday Free Spins (50 spins on Fish Eye):<\/strong> Available Monday through Thursday with a minimum €50 deposit. Fifty free spins on Fish Eye credit automatically to your account. A straightforward mid-week reward for consistent players seeking daily value.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game of the Week (up to 200 spins):<\/strong> Earn one free spin for every €1 deposited, up to 200 spins per week, on the designated featured game. Activated via live chat — contact our 24\/7 support team to claim. A rotating weekly highlight that keeps the promotional calendar fresh and rewarding.<\/li>\n<\/ul>\n\n<h3>Responsible Gaming: Our Commitment to Safe Play<\/h3>\n\n<p>We are committed to providing a safe and responsible gaming environment for all players on our platform. Responsible gambling tools are built directly into every player account dashboard, accessible at any time without requiring support intervention. We recognise that for some individuals, gambling can become problematic, and we provide the resources and controls necessary to prevent harm. Our platform complies with responsible gaming standards mandated by our Curaçao Gaming Authority license and follows international best practices for player protection.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly deposit caps directly from your account settings. Limits apply immediately upon confirmation and can be reduced at any time. Requests to increase limits are subject to a mandatory 24-hour cooling-off period before taking effect.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Session Time Limits:<\/strong> Configure maximum session durations to control how long you play in a single sitting. Once your time limit expires, you are automatically logged out, preventing extended unplanned gambling sessions driven by emotional states.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Loss Limits:<\/strong> Define the maximum amount you are willing to lose in a given period. When the threshold is reached, further gameplay is restricted until the limit resets — giving you full financial control over your casino experience.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> Players who feel they need a break from gambling can activate self-exclusion for defined periods ranging from 24 hours to permanent closure. During exclusion, account access is fully restricted and marketing communications are suspended. Contact our 24\/7 support team or manage this directly in your account dashboard.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Checks:<\/strong> Periodic on-screen reminders of how long you have been playing during a session. These prompts encourage mindful engagement and help maintain awareness of time and spending without interrupting gameplay unnecessarily.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus at NeedForSlots?",
+                            "answer": "Register your account and deposit a minimum of €40 (€30 for crypto) to trigger the 100% match up to €500 + 50 Free Spins automatically — no promo code needed. Wagering requirement is 45x within 7 days. Contact our 24\/7 live chat for instant activation support.\n"
+                        },
+                        {
+                            "title": "Is NeedForSlots a licensed and safe casino?",
+                            "answer": "Yes, we operate under Curaçao Gaming Authority license OGL\/2025\/5514\/3876 and secure all transactions with SSL 256-bit encryption. Every game is supplied by RNG-certified studios. Our responsible gaming tools including deposit limits and self-exclusion are always available in your account dashboard.\n"
+                        },
+                        {
+                            "title": "What payment methods does NeedForSlots accept?",
+                            "answer": "We accept 16 payment methods including Visa, Mastercard, Skrill, Neteller, Apple Pay, Google Pay, Paysafecard, Neosurf, Bitcoin, Ethereum, Litecoin, Ripple, USDT, and bank transfers. Minimum deposit is €20 (€30 crypto). All transactions are fee-free on our side.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at NeedForSlots Casino?",
+                            "answer": "Withdrawals via cryptocurrency and e-wallets (Skrill, Neteller) typically process within 24 hours after identity verification. Card withdrawals take 1–5 business days. Bank transfers take 3–5 business days with a monthly maximum of €15,000. No casino fee applies to any withdrawal method.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone?",
+                            "answer": "Yes, all 200+ live casino tables stream in HD directly through your mobile browser — no app download required. Our platform uses HTML5 technology optimised for iOS and Android devices from 320px screens. Live roulette, blackjack, baccarat, and game shows are fully accessible on mobile.\n"
+                        },
+                        {
+                            "title": "What are the wagering requirements for bonuses?",
+                            "answer": "All welcome bonus funds and free spin winnings carry a 45x wagering requirement, which must be completed within 7 days of activation. Slots contribute 100% toward wagering; card games and roulette contribute 5%; live dealer games contribute 0%. Check our Promotions page for full bonus terms.\n"
+                        },
+                        {
+                            "title": "How many games are available at NeedForSlots?",
+                            "answer": "Our gaming library includes 6,000+ titles from over 70 certified studios including Pragmatic Play, Evolution Gaming, Microgaming, BGaming, Betsoft, and Endorphina. The catalogue covers video slots, classic slots, live casino, table games, video poker, and sports betting — all in one lobby.\n"
+                        },
+                        {
+                            "title": "Does NeedForSlots offer responsible gambling tools?",
+                            "answer": "Yes, we provide a full suite of responsible gaming tools built into every account: deposit limits, loss limits, session time limits, reality checks, and self-exclusion options ranging from 24 hours to permanent closure. All tools are accessible directly from your dashboard without contacting support.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
